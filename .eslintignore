@@ -1,0 +1,7 @@
+node_modules/**
+src/assets/**
+package-lock.json
+dist/**
+deployment/**
+src/services/**
+!.prettierrc.js

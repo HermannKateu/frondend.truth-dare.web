@@ -1,5 +1,9 @@
-<template>PROJECT BASE WELL CLONE</template>
+<template>
+    <Home />
+    <RouterView />
+</template>
 
-<script setup lang="ts"></script>
+<script setup lang="ts">
+import Home from './views/Home.vue';
 
-<style scoped></style>
+</script>

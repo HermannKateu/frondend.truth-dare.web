@@ -1,1 +1,1 @@
-export const method = (): void => {}
+export const method = (): void => {};

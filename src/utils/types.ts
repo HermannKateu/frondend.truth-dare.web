@@ -1,1 +1,1 @@
-export type DefaultType = {}
+export type DefaultType = {};
