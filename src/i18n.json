@@ -1,4 +1,22 @@
 {
-  "en": {},
-  "fr": {}
+  "en": {
+    "start_btn": "Start the Game",
+    "config_question_lbl": "How will you like to play ?",
+    "config": {
+      "fun_lbl": "Fun",
+      "hot_lbl": "Hot",
+      "couple_lbl": "Couple",
+      "extreme_lbl": "Extreme"
+    }
+  },
+  "fr": {
+    "start_btn": "Commencer le jeu",
+    "config_question_lbl": "Comment aimerez-vous jouer ?",
+    "config": {
+      "fun_lbl": "Amusant",
+      "hot_lbl": "Chaud",
+      "couple_lbl": "Couple",
+      "extreme_lbl": "Extrême"
+    }
+  }
 }

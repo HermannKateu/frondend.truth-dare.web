@@ -1,1 +1,4 @@
-export type DefaultType = {};
+export type Menu = {
+    label: string;
+    color: string;
+};

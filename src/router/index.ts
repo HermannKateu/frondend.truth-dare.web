@@ -14,6 +14,18 @@ const router = createRouter({
       path: "/",
       component: Home.vue,
     },
+    {
+      name: "layout",
+      path: "/layout",
+      component: () => import("../views/Layout.vue"),
+      children: [
+        {
+          name: "configuration",
+          path: "",
+          component: () => import("../views/GameConfiguration.vue"),
+        }
+      ]
+    },
   ],
 });
 
